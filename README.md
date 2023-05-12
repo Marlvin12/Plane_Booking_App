@@ -1,5 +1,4 @@
 # Plane_Booking_App
-# Plane-Booking App
 
 A simple and elegant SwiftUI-based flight booking app that allows users to browse available flights, view detailed flight information, and submit their booking.
 ![airplane](https://github.com/Marlvin12/Plane_Booking_App/assets/122947486/2a861177-9fb2-4d88-848e-a3920e7e1388)
